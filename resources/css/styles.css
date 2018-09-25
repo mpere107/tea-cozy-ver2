@@ -1,0 +1,43 @@
+/*Universal Styles*/
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+/*Universal Styles END*/
+
+/*Navigation*/
+.header-nav {
+  position: fixed;
+  border-bottom: 1px solid seashell;
+}
+
+.logo-nav {
+  padding-left: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.nav {
+
+}
+
+.nav span {
+  
+}
+
+.mission {
+
+}
+
+.featured {
+
+}
+
+.locations {
+
+}
+/*Navigation END*/
