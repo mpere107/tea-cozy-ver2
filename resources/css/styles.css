@@ -9,24 +9,36 @@ body {
 }
 /*Universal Styles END*/
 
+
 /*Navigation*/
 .header-nav {
   position: fixed;
+  height: 69px;
+  width: 99%;
   border-bottom: 1px solid seashell;
+  /*border: 1px solid seashell;*/
+
 }
 
 .logo-nav {
-  padding-left: 10px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  float: left;
+  width: 175px;
+  padding: 5px 25px;
 }
 
 .nav {
-
+list-style: none;
 }
 
 .nav span {
-  
+  display: inline-flex;
+  float: right;
+
+  margin-right: 30px;
+}
+
+a:link {
+  color: seashell;
 }
 
 .mission {
