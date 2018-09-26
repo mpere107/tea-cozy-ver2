@@ -15,9 +15,9 @@
   position: fixed;
   height: 69px;
   width: 99%;
-  /*border-bottom: 1px solid seashell;*/
+  border-bottom: 1px solid seashell;
   background-color: black;
-  border: 1px solid seashell;
+  /*border: 1px solid seashell;*/
   z-index: 2;
 }
 
@@ -147,3 +147,20 @@ a:link {
   margin-left: 40px;
 }
 /*Location END*/
+
+
+/*Contact*/
+#contact {
+
+}
+
+.contact-info {
+  height: 200px;
+  /*border: 1px solid white;*/
+}
+
+.copyright {
+  text-align: left;
+  margin-left: 20px;
+}
+/*Contact END*/
